@@ -1,4 +1,4 @@
-package dev.sunil.Splitwise.Model;
+package dev.sunil.Splitwise.Entity;
 
 import jakarta.persistence.MappedSuperclass;
 import lombok.Getter;
